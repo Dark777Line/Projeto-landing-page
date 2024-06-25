@@ -1,2 +1,3 @@
-# Projeto-landing-page
-Este é o projeto de desenvolvimento do módulo base do curso de tecnologia da escola DNC.
+# Desafio 1 - Resolução
+Link do site disponibilizado: https://inovahouse.netlify.app
+Link da planilha de registros de informações: https://shorturl.at/RcoQp
